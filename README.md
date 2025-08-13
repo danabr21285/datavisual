@@ -34,7 +34,6 @@ The dashboard visualizes:
 ## 🛠 Tools & Technologies
 - **Tableau Public** – Data visualization platform  
 - **Mapbox** – Geospatial mapping  
-- **Data Source:** (Add here if shareable)
 
 ---
 
